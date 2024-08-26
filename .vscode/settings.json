@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.cpp": "cpp",
+    "stdint-gcc.h": "c",
+    "stdint.h": "c",
+    "libc-header-start.h": "c",
+    "stddef.h": "c"
+  }
+}
